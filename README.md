@@ -1,2 +1,2 @@
 # odin-recipes
-pokus o prvni projekt
+my first project - recipe website
